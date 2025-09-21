@@ -1,0 +1,6 @@
+# Minimal requirements for multi-bot system testing
+# Install these first, then add others as needed
+
+websocket-client
+requests
+redis

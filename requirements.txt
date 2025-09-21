@@ -1,0 +1,25 @@
+# Core dependencies for Deriv AI Trading Bot
+websocket-client==1.6.4
+requests==2.31.0
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+xgboost==2.0.1
+joblib==1.3.2
+
+# Database
+sqlite3  # Built into Python
+
+# Additional ML libraries
+lightgbm==4.1.0
+catboost==1.2.2
+
+# Utilities
+python-dotenv==1.0.0
+schedule==1.2.0
+psutil==5.9.6
+
+# Optional: For advanced features
+# plotly==5.17.0  # For visualization
+# dash==2.14.2    # For web dashboard
+# flask==3.0.0    # For API server

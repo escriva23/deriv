@@ -1,0 +1,27 @@
+# Enhanced Pattern-Aware AI Trading System Requirements
+
+# Core ML/AI libraries
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Advanced ML models
+lightgbm>=4.0.0
+xgboost>=1.7.0
+
+# Plotting (optional but recommended)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Database
+# sqlite3 is included with Python by default
+
+# Existing requirements (if not already installed)
+websocket-client
+redis
+joblib
+
+# Development/testing
+pytest>=7.0.0  # For testing
+jupyter>=1.0.0  # For analysis notebooks
